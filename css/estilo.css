@@ -1,0 +1,65 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&family=Raleway&family=Russo+One&display=swap');
+
+body {
+    font-family: 'Raleway';
+    text-align: center;
+    background: rgba(0, 0, 0, 0.84);
+    color: white;
+
+    display: flex;
+    flex-direction: column;
+
+    align-items: center;
+
+}
+
+h1 {
+    width: 946px;
+    height: 138px;
+    left: 288px;
+    top: 107px;
+  
+    font-weight: 700;
+    font-size: 59px;
+    line-height: 69px;
+    text-align: center;
+
+    color: #FFFFFF;
+}
+
+section {
+    width: 1238px;
+    height: 257px;
+    left: 137px;
+    top: 434px;
+
+    margin-top: 100px;
+
+    background: #CA7900;
+    border-radius: 40px;
+}
+
+section img {
+    margin-top: -40px;
+    width: 100px;
+}
+
+section button {
+    width: 150px;
+    height: 76px;
+    left: 455px;
+    top: 562px;
+
+    background: #CA8500;
+    border: 9px solid #F5F5F5;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 14px;
+
+    margin: 15px;
+
+    font-family: 'Raleway';
+    text-align: center;
+    color: white;
+    font-size: 40px;
+
+}
